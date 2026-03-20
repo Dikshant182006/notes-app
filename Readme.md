@@ -2,6 +2,10 @@
 
 A simple **Notes Application** that allows users to create, edit, and delete notes. All notes are stored in the browser using **Local Storage**, so they remain available even after refreshing the page.
 
+## 📸 Preview
+
+<img src="img.svg/UI.png" width="600">
+
 ## 🚀 Key Features
 
 Create Notes: Instantly generate new editable notes.
